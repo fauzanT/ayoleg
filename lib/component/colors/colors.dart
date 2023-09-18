@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+
+const greenTap = Color.fromARGB(255, 127, 210, 231);
+const greenPrimary = Color(0xFF06308D);
+const greengradiens = Color(0xFF105C64);
+const whitePrimary = Color(0xFFFFFFFF);
+const whiteSecondary = Color(0xFFFAFAFA);
+const greyPrimary = Color(0xFF9E9E9E);
+const textPrimary = Color(0xFF37474F);
+const shadowColor = Color(0xFFEEEEEE);
+const hijauprimary = Color(0xFF006600);
+const putihprimary = Color(0xFFFFFFFF);
+const putihsecondary = Color(0xFFFAFAFA);
+const textcolorprimary = Color(0xFF37474F);
+const shadowColor2 = Color(0xFFC5C5C5);
+const shadowColor3 = Color(0xFF878787);
+const gradient1 = Color(0xFFDCE2EF);
+const gradient2 = Color(0xFFBACCF3);
+const gradient3 = Color(0xFFB0C4EE);
+const gradient4 = Color(0xFF8BADF6);
+// const gradient5 = Color(0xFFC47D0B);
+const gradient5 = Color(0xDB345FC5);
+const gradient6 = Color(0xFFD9972E);
+const gradient7 = Color(0xFF06308D);
+const merah = Color.fromARGB(255, 179, 26, 33);
+const shadowColor4 = Color(0xFFEEEAEA);
